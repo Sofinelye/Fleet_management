@@ -1,3 +1,3 @@
 # Fleet_management
 
-carlo_monte_sample.py is a util file which is being imported by the main script 
+carlo_monte_sample.py is a utility script which is being imported by the main script 
